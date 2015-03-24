@@ -1,5 +1,5 @@
 <?php  
-include "constructor.php";
+include "kereta.class.php";
 
 $kereta = new Kereta("perodua", "myvi", "oren"); // give default value to class properti using constructor
 
