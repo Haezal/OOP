@@ -32,7 +32,7 @@ class Kereta
 	 **/
 	public function diskaun()
 	{
-		if($this->jenama="perodua"){
+		if($this->jenama=="perodua"){
 			$diskaun = "50%";
 		}
 		else{
