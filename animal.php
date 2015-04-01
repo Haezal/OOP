@@ -23,6 +23,7 @@ class Penguin extends Animal {
 
 $tux = new Penguin();
  
+ echo "<h4>Hak akses</h4>";
 // make tux dance
 $tux->private_dance();
 echo "<br>";
